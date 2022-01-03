@@ -1,0 +1,2 @@
+sudo apt update
+sudo apt install -y libosmogsm15 libosmogsm-doc python3-gvm python3-enigma slang-gsl smstools sox swh-lv2 telepathy-ring sox osmocom-nitb libosmo-sccp-dev libosmocoding0 libosmonetif8 libosmo-sabp0 libgsm1 libgsm-tools libgsm1-dev  gr-gsm gpgsm gpgrt-tools gsm-utils gsm0710muxd gsmartcontrol gvm-tools
